@@ -1,0 +1,8 @@
+C:\Pavithra\Swimline\BackendAPI\DataModels\bin\Debug\netcoreapp2.0\DataModels.deps.json
+C:\Pavithra\Swimline\BackendAPI\DataModels\bin\Debug\netcoreapp2.0\DataModels.dll
+C:\Pavithra\Swimline\BackendAPI\DataModels\bin\Debug\netcoreapp2.0\DataModels.pdb
+C:\Pavithra\Swimline\BackendAPI\DataModels\obj\Debug\netcoreapp2.0\DataModels.csproj.CoreCompileInputs.cache
+C:\Pavithra\Swimline\BackendAPI\DataModels\obj\Debug\netcoreapp2.0\DataModels.AssemblyInfoInputs.cache
+C:\Pavithra\Swimline\BackendAPI\DataModels\obj\Debug\netcoreapp2.0\DataModels.AssemblyInfo.cs
+C:\Pavithra\Swimline\BackendAPI\DataModels\obj\Debug\netcoreapp2.0\DataModels.dll
+C:\Pavithra\Swimline\BackendAPI\DataModels\obj\Debug\netcoreapp2.0\DataModels.pdb
